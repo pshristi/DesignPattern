@@ -19,20 +19,6 @@ Each design pattern is organized into its own package under `src/main/java`, wit
   - Key classes/interfaces used.
   - Code flow & behavior.
 
-src/
-└── main/
-└── java/
-└── com/
-└── pshristi/
-└── learninglld/
-├── adapterPattern/
-│ ├── adapterPatternUsage.java
-│ └── README.md
-├── builderPattern/
-│ ├── StudentBuilderUsage.java
-│ └── README.md
-└── ...
-
 ---
 
 ## ✅ Patterns Covered (so far)
@@ -46,22 +32,19 @@ src/
 ---
 
 ## ▶️ Running the Code
-
-Make sure you have **Java 17+** and **Maven** installed.
-
-To run any example:
+- Make sure you have **Java 17+** and **Maven** installed.
+- To run any example:
 
 ```bash
 mvn compile
 mvn exec:java -Dexec.mainClass="com.pshristi.learninglld.patternName.UsageClass"
+```
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Huge thanks to Concept & Coding for their outstanding tutorials on design patterns and LLD topics. Please support the original work on their YouTube channel.
 
 This repo is purely for educational purposes — meant to reinforce my understanding and help others who might benefit from code-based learning.
 
-👤 Maintainer
+## 👤 Maintainer
 Shristi Pathak
-Senior Software Developer | Passionate about clean code and design
-GitHub: @pshristi
 LinkedIn: https://www.linkedin.com/in/shristi-p-483a4612a/
