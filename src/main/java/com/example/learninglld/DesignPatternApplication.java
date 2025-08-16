@@ -11,10 +11,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearningLldApplication {
+public class DesignPatternApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LearningLldApplication.class, args);
+        SpringApplication.run(DesignPatternApplication.class, args);
         UseInterpreterPattern.useInterpreterPattern();
 
     }
