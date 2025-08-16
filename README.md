@@ -61,7 +61,7 @@ Each design pattern is organized into its own package under `src/main/java`, wit
 
 ```bash
 mvn compile
-mvn exec:java -Dexec.mainClass="com.pshristi.learninglld.patternName.UsageClass"
+mvn exec:java -Dexec.mainClass="com.example.learninglld.patternName.UsageClass"
 ```
 
 ## 🙌 Acknowledgments
