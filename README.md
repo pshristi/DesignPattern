@@ -70,5 +70,6 @@ Huge thanks to Concept & Coding for their outstanding tutorials on design patter
 This repo is purely for educational purposes — meant to reinforce my understanding and help others who might benefit from code-based learning.
 
 ## 👤 Maintainer
-Shristi Pathak
-LinkedIn: https://www.linkedin.com/in/shristi-p-483a4612a/
+
+**Shristi Pathak**
+- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
